@@ -1,6 +1,6 @@
 {
   "name": "angular-haversine-geolocation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular 20 service for geolocation history management (Haversine)",
   "main": "bundles/angular_haversine_geolocation.umd.js",
   "module": "fesm2022/angular_haversine_geolocation.mjs",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodolphe37/react-haversine-geolocation"
+    "url": "git+https://github.com/rodolphe37/angular-haversine-geolocation"
   },
   "bugs": {
-    "url": "https://github.com/rodolphe37/react-haversine-geolocation/issues"
+    "url": "https://github.com/rodolphe37/angular-haversine-geolocation"
   },
-  "homepage": "https://github.com/rodolphe37/react-haversine-geolocation#readme",
+  "homepage": "https://github.com/rodolphe37/angular-haversine-geolocation#readme",
   "keywords": [
     "angular",
     "geolocation",
